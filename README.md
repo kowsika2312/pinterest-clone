@@ -1,4 +1,4 @@
-Pinterest Clone - Zuntra Interview Task
+Pinterest Clone
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application developed as a technical assessment for Zuntra. This application replicates core features of Pinterest, allowing users to browse and manage image-based pins.
 
